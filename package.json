@@ -1,0 +1,11 @@
+{
+  "name": "grunt-for-jade",
+  "version": "0.0.0",
+  "description": "Grunt for Jade",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaosf/grunt-for-jade.git"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
